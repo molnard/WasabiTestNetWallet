@@ -1,0 +1,16 @@
+﻿{
+  "EncryptedSecret": "6PYPD7kDHYspaeeoLJxc7u9ewb3xFv6DDcHkCzGLA4LRR3bb2WVCFMop6W",
+  "ChainCode": "MkTwy5hGKKp4t0hFEC0KgKftSMKkU++7M6+H6onGBGg=",
+  "MasterFingerprint": "d3584e80",
+  "ExtPubKey": "xpub6CyHGZetooWyMwPQrCuJdeAEhwrCEovdnp2Skzy51oyNKxKasitqKiuW6mqyREEcmtCXFEhSdrogVw3MKPHnxbKRJFE2Qn7gmKz8W47zwVJ",
+  "PasswordVerified": true,
+  "MinGapLimit": 21,
+  "AccountKeyPath": "84'/0'/0'",
+  "BlockchainState": {
+    "Network": "TestNet",
+    "Height": "1693537"
+  },
+  "HdPubKeys": [
+    
+  ]
+}
